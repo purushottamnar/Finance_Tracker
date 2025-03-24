@@ -74,6 +74,7 @@ A web-based personal finance tracking application built with Flask that helps us
 
 5. Access the application at `http://localhost:5000`
 
+6. Extract venv.zip as projectname/venv
 ## Project Structure
 finance_tracker/
 ├── app/
